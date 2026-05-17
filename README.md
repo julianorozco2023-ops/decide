@@ -2,7 +2,7 @@
 
 A CLI tool that captures the *why* behind code decisions and surfaces them when you return to a file.
 
-Most context loss in software isn't "I forgot what this does" — it's "I forgot why it's this way and not the obvious alternative." This tool fixes that.
+Most context loss in software isn't "I forgot what this does" it's "I forgot why it's this way and not the obvious alternative." This tool fixes that.
 
 ## Install
 
@@ -72,7 +72,7 @@ The `--context` command scores every past decision against the file you're openi
 
 - Capture decisions **as they happen** — 30 seconds while the reasoning is fresh
 - Run `work <file>` **before touching anything** when you return to a project
-- Only capture decisions you'd have to *think* to reconstruct — skip the obvious ones
+- Only capture decisions you'd have to *think* to reconstruct and skip the obvious ones
 
 ## Requirements
 
