@@ -1,6 +1,6 @@
 # decide
 
-A CLI tool that captures the *why* behind code decisions and surfaces them when you return to a file.
+A CLI tool that captures the "*why*" behind code decisions and surfaces them when you return to a file.
 
 Most context loss in software isn't "I forgot what this does" it's "I forgot why it's this way and not the obvious alternative." This tool fixes that.
 
